@@ -6,8 +6,8 @@ Python script for decrypting stored images from Snapchat version 5.0.34.nn
 **Remember to close the application before running the script**.
 
 **New version by Nicole that doesn't require ADB**
-Copy the files (bananas1 and new photos) to some non-root location s.t. can email to computer
 
+Copy the files (bananas1 and new photos) to some non-root location s.t. can email to computer
 rename bananas1 to encrypted_bananas_file
 put the photos into encrypted_received_image_snaps
 change line 75's contents to Android ID (use Device ID app to find it)
